@@ -8,7 +8,6 @@
 
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenieria+Informatica;UCSE;Aprendiendo+dia+a+dia;:+)"></a>
 </p>
