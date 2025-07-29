@@ -5,8 +5,6 @@
 </div>
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4705273" style='border:none;'></iframe>
-
 
 
 <p align="center">
@@ -28,3 +26,4 @@
 
 <p align="center">
 	<a href="mailto:juansleibe2004@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4705273" style='border:none;'></iframe>
