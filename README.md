@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenieria+Informatica;UCSE;Aprendiendo;:+)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenieria+Informatica;UCSE;"></a>
 </p>
 
 
@@ -26,4 +26,4 @@
 
 <p align="center">
 	<a href="mailto:juansleibe2004@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4705273" style='border:none;'></iframe>
+
